@@ -1,0 +1,14 @@
+# PHP
+/vendor/
+*.log
+
+# TypeScript
+node_modules/
+/dist/
+
+# HTML and CSS
+*.html
+*.css
+
+# Miscellaneous
+.cache/
